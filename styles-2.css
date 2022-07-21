@@ -1,0 +1,150 @@
+@media screen and (max-width: 576px){
+    
+}
+#header-one{
+    font-size: 2em;
+    color: rgb(255, 223, 13);
+ }
+ @media screen and (max-width: 576px){
+    
+}
+ .one{
+    background-color: rgb(232, 174, 174);
+    display: block;
+    text-align: center;
+}
+@media screen and (max-width: 576px){
+    
+}
+.paragraph-one{
+    font-size: 20px;
+}
+@media screen and (max-width: 576px){
+    
+}
+.button-one{
+    height: 60px;
+    width: 150px;
+    background-color: rgba(201, 62, 11, 0.942);
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 1.5em;
+}
+@media screen and (max-width: 576px){
+    
+}
+.matches{
+    margin-left: 40%;
+    align-items: center;
+    padding-top: 2%;
+   
+    
+}
+@media screen and (max-width: 576px){
+    
+}
+#special{
+    background-color: lightblue;
+}
+@media screen and (max-width: 576px){
+    
+}
+.option{
+    display: block;
+    height: 80px;
+    width: 300px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+    
+}
+@media screen and (max-width: 576px){
+    
+}
+.picture .sala-imag img{
+    height: 357px;
+    width: 500px;
+}
+@media screen and (max-width: 576px){
+
+    }
+    
+
+.button-two{
+    height: 30px;
+    width: 65px;
+    text-align: center;
+    background-color: burlywood;
+    border: 2px solid red;
+}
+@media screen and (max-width: 576px){
+    
+}
+.for-button{
+    margin-top: 20px;
+    
+}
+@media screen and (max-width: 576px){
+    
+}
+.icons{
+    margin-right: 30px;
+}
+@media screen and (max-width: 576px){
+    
+}
+.picture{
+    border: 2px solid lightgreen;
+    height: 500px;
+    width: 600px;
+    text-align: center;
+    background-color: antiquewhite;
+    margin-top: 10px;
+    border-radius: 20px;
+    padding-top: 10px;
+    
+}
+@media screen and (max-width: 576px){
+    
+}
+.pictures{
+    display: block;
+    margin-left: 27.5%;
+    margin-top: 10px;
+       
+}
+@media screen and (max-width: 576px){
+    
+}
+footer{
+    background-color: black;
+    margin-top: 20px;
+}
+@media screen and (max-width: 576px){
+    
+}
+.foot{
+    text-align: center;
+    display: block;
+    color: whitesmoke;
+    font-size: 2em;
+    margin-bottom: 20px;
+    
+}
+@media screen and (max-width: 576px){
+    
+    }
+.last-heading{
+    color: white;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 30px;
+}
+@media only screen and (max-width: 320px) {
+
+    body { 
+       font-size: 2em; 
+    }
+ 
+ }
